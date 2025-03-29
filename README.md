@@ -2,7 +2,7 @@
 
 ![Github trophies](https://github-profile-trophy.vercel.app/?username=ruiromano)
 
-[:heart: Sponsor](https://github.com/sponsors/ruiromano)
+# [:heart: Sponsor](https://github.com/sponsors/ruiromano)
 
 <!--
 **RuiRomano/ruiromano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
